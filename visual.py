@@ -4,7 +4,7 @@ from matplotlib.animation import FuncAnimation
 import itertools
 
 # Load data from CSV
-df = pd.read_csv("alldata111.csv")
+df = pd.read_csv("alldata11.csv")
 
 # Extract columns
 windows = df["Window"]
